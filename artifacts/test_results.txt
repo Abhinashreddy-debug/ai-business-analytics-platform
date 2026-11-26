@@ -1,0 +1,10 @@
+test_cleaning (test_project.ProjectTests.test_cleaning) ... ok
+test_group_summaries (test_project.ProjectTests.test_group_summaries) ... ok
+test_insights (test_project.ProjectTests.test_insights) ... ok
+test_kpis (test_project.ProjectTests.test_kpis) ... ok
+test_ml (test_project.ProjectTests.test_ml) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.347s
+
+OK
